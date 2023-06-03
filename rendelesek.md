@@ -21,7 +21,7 @@
 
 ## Vásárolt mennyiség
 
-Alma:
-Brokkoli:
-Narancs:
-Paradicsom:
+Alma:5
+Brokkoli:5
+2-Narancs:
+3-Paradicsom:
